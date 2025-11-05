@@ -1,0 +1,11 @@
+{
+  "name": "Vegshell_Farmers",
+  "displayName": "Vegshell_Farmers",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "d341ef1d-d04e-4975-bb75-0462d919c15e"
+      }
+    }
+  }
+}
